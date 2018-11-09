@@ -22,7 +22,7 @@
  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
-    <artifactId>zookeeper </artifactId>
+    <artifactId>zookeeper</artifactId>
     <version>3.4.0</version>
 </dependency>
 
