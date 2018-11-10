@@ -23,7 +23,7 @@
 <dependency>
     <groupId>tomcat-4</groupId>
     <artifactId>v4.1.39</artifactId>
-    <version>apache-tomcat-4.1.39</version>
+    <version>4.1.39</version>
 
 
 </dependency>
