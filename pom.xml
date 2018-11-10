@@ -12,18 +12,18 @@
     </repository>
 	
 	<repository>
-      <id>JabRef</id>
-      <name>JabRef</name>
-      <url>https://dev.bibsonomy.org/maven2/</url>
+      <id>tomcat</id>
+      <name>tomcat</name>
+      <url>https://archive.apache.org/dist/tomcat/</url>
     </repository>
 
 	</repositories>
   <dependencies>
 <!-- https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper -->
 <dependency>
-    <groupId>org.jenkins-ci.plugins</groupId>
-    <artifactId>build-publisher</artifactId>
-    <version>1.21</version>
+    <groupId>v4.1.39</groupId>
+    <artifactId>bin</artifactId>
+    <version>apache-tomcat-4.1.39.exe</version>
 
 
 </dependency>
