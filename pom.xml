@@ -12,17 +12,17 @@
     </repository>
 	
 	<repository>
-      <id>v4.1.39</id>
-      <name>v4.1.39</name>
-      <url>https://archive.apache.org/dist/tomcat/tomcat-4/</url>
+      <id>tomcat-4</id>
+      <name>tomcat-4</name>
+      <url>https://archive.apache.org/dist/tomcat/</url>
     </repository>
 
 	</repositories>
   <dependencies>
 <!-- https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper -->
 <dependency>
-    <groupId>v4.1.39</groupId>
-    <artifactId>bin</artifactId>
+    <groupId>tomcat-4</groupId>
+    <artifactId>v4.1.39</artifactId>
     <version>apache-tomcat-4.1.39</version>
 
 
