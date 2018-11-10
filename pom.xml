@@ -21,9 +21,9 @@
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>JabRef</groupId>
-    <artifactId>JabRef-bibsonomy</artifactId>
-    <version>2.4.5</version>
+    <groupId> org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>3.0.2</version>
 </dependency>
 
   </dependencies>
