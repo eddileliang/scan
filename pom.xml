@@ -12,9 +12,9 @@
     </repository>
 	
 	<repository>
-      <id>tomcat</id>
-      <name>tomcat</name>
-      <url>https://archive.apache.org/dist/tomcat/</url>
+      <id>v4.1.39</id>
+      <name>v4.1.39</name>
+      <url>https://archive.apache.org/dist/tomcat/tomcat-4/</url>
     </repository>
 
 	</repositories>
@@ -23,7 +23,7 @@
 <dependency>
     <groupId>v4.1.39</groupId>
     <artifactId>bin</artifactId>
-    <version>apache-tomcat-4.1.39.exe</version>
+    <version>apache-tomcat-4.1.39</version>
 
 
 </dependency>
