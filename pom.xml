@@ -21,8 +21,8 @@
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>zookeeper</groupId>
-    <artifactId>3.4.0</artifactId>
+    <groupId>org.apache.zookeeper.zookeeper</groupId>
+    <artifactId>zookeeper</artifactId>
     <version>3.4.0</version>
 </dependency>
 
