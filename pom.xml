@@ -22,7 +22,7 @@
   <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
     <groupId>zookeeper</groupId>
-    <artifactId>3.4.0</artifactId>
+    <artifactId>zookeeper</artifactId>
     <version>zookeeper-3.4.0</version>
 </dependency>
 
