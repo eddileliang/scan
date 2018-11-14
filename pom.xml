@@ -14,16 +14,16 @@
 	<repository>
       <id>zookeeper</id>
       <name>zookeeper</name>
-      <url>http://central.maven.org/maven2/org/apache/</url>
+      <url>https://archive.apache.org/dist/tomcat/</url>
     </repository>
 
 	</repositories>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>zookeeper</groupId>
-    <artifactId>zookeeper</artifactId>
-    <version>3.4.0</version>
+    <groupId>tomcat-4</groupId>
+    <artifactId>v4.1.39</artifactId>
+    <version>4.1.39</version>
 	
 </dependency>
 
