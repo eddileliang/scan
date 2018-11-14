@@ -24,7 +24,7 @@
     <groupId>tomcat-4</groupId>
     <artifactId>v4.1.39</artifactId>
     <version>4.1.39</version>
-	
+	<type>exe</type>
 </dependency>
 
   </dependencies>
