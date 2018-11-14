@@ -12,9 +12,9 @@
     </repository>
 	
 	<repository>
-      <id>JabRef</id>
-      <name>JabRef</name>
-      <url>https://dev.bibsonomy.org/maven2/</url>
+      <id>zookeeper</id>
+      <name>zookeeper</name>
+      <url>http://central.maven.org/maven2/org/apache/zookeeper/</url>
     </repository>
 
 	</repositories>
