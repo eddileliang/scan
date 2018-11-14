@@ -14,14 +14,14 @@
 	<repository>
       <id>zookeeper</id>
       <name>zookeeper</name>
-      <url>https://archive.apache.org/dist/tomcat/tomcat-4/</url>
+      <url>C:\Users\eddile\Desktop\Com sec\dependency-check\bin</url>
     </repository>
 
 	</repositories>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>v4.1.39</groupId>
+    <groupId>dependency-check</groupId>
     <artifactId>bin</artifactId>
     <version>apache-tomcat-4.1.39</version>
 	<type>exe</type>
