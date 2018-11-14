@@ -11,20 +11,20 @@
       <url>http://repo.jenkins-ci.org/releases/</url>
     </repository>
 	
-	<repository>
+<repository>
       <id>zookeeper</id>
       <name>zookeeper</name>
-      <url>C:\Users\eddile\Desktop\Com sec\dependency-check\bin</url>
+      <url>http://central.maven.org/maven2/org/apache/</url>
     </repository>
 
 	</repositories>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>dependency-check</groupId>
-    <artifactId>bin</artifactId>
-    <version>apache-tomcat-4.1.39</version>
-	<type>exe</type>
+    <groupId>zookeeper</groupId>
+    <artifactId>zookeeper</artifactId>
+    <version>3.4.9</version>
+	
 </dependency>
 
   </dependencies>
