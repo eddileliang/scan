@@ -6,28 +6,25 @@
   <repositories>
 
     <repository>
-      <id>mysql</id>
-      <name>mysql</name>
+      <id>jenkins-ci</id>
+      <name>jenkins</name>
       <url>http://repo.jenkins-ci.org/releases/</url>
     </repository>
 	
 	<repository>
       <id>JabRef</id>
       <name>JabRef</name>
-      <url>https://downloads.mysql.com/</url>
+      <url>https://dev.bibsonomy.org/maven2/</url>
     </repository>
 
 	</repositories>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+  <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>archives</groupId>
-    <artifactId>community</artifactId>
-    <version>5.1.33</version>
+    <groupId>zookeeper</groupId>
+    <artifactId>3.4.0</artifactId>
+    <version>3.4.0</version>
 </dependency>
-
-
-
 
   </dependencies>
 </project>
