@@ -14,7 +14,7 @@
 	<repository>
       <id>zookeeper</id>
       <name>zookeeper</name>
-      <url>http://central.maven.org/maven2/org/apache/zookeeper/</url>
+      <url>http://central.maven.org/maven2/org/apache/</url>
     </repository>
 
 	</repositories>
