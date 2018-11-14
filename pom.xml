@@ -23,7 +23,7 @@
 <dependency>
     <groupId>zookeeper</groupId>
     <artifactId>3.4.0</artifactId>
-    <version>3.4.0</version>
+    <version>zookeeper-3.4.0</version>
 </dependency>
 
   </dependencies>
