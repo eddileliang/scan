@@ -19,11 +19,12 @@
 
 	</repositories>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.neo4j/neo4j -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-mxj -->
 <dependency>
-    <groupId>org.neo4j</groupId>
-    <artifactId>neo4j</artifactId>
-    <version>1.9.2</version>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-mxj</artifactId>
+    <version>5.0.12</version>
+    <scope>test</scope>
 </dependency>
 
 
