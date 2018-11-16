@@ -23,7 +23,7 @@
 <dependency>
     <groupId>zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.4.9</version>
+    <version>zookeeper-3.4.9</version>
 	<type>jar</type>
 </dependency>
 
