@@ -19,12 +19,14 @@
 
 	</repositories>
   <dependencies>
- <!-- https://mvnrepository.com/artifact/tomcat/catalina -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-mxj -->
 <dependency>
-    <groupId>tomcat</groupId>
-    <artifactId>catalina</artifactId>
-    <version>5.5.23</version>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-mxj</artifactId>
+    <version>5.0.12</version>
+    <scope>test</scope>
 </dependency>
+
 
 
   </dependencies>
