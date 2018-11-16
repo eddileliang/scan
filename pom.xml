@@ -19,13 +19,13 @@
 
 	</repositories>
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
+ <!-- https://mvnrepository.com/artifact/tomcat/catalina -->
 <dependency>
-    <groupId>zookeeper</groupId>
-    <artifactId>zookeeper</artifactId>
-    <version>3.4.9</version>
-	<type>exe<type>	
+    <groupId>tomcat</groupId>
+    <artifactId>catalina</artifactId>
+    <version>5.5.23</version>
 </dependency>
+
 
   </dependencies>
 </project>
