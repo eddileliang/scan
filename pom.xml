@@ -24,7 +24,7 @@
     <groupId>zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
     <version>3.4.9</version>
-	
+	<type>exe<type>	
 </dependency>
 
   </dependencies>
