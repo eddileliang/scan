@@ -19,12 +19,13 @@
 
 	</repositories>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.jenkins-ci.plugins/build-publisher -->
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
-    <groupId>org.jenkins-ci.plugins</groupId>
-    <artifactId>build-publisher</artifactId>
-    <version>1.21</version>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>3.0.2.RELEASE</version>
 </dependency>
+
 
 
 
