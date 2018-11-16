@@ -19,13 +19,13 @@
 
 	</repositories>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-mxj -->
+<!-- https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk15on -->
 <dependency>
-    <groupId>mysql</groupId>
-    <artifactId>mysql-connector-mxj</artifactId>
-    <version>5.0.12</version>
-    <scope>test</scope>
+    <groupId>org.bouncycastle</groupId>
+    <artifactId>bcprov-jdk15on</artifactId>
+    <version>1.54</version>
 </dependency>
+
 
 
 
